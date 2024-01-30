@@ -1,5 +1,10 @@
-$ mkdir my_project
-$ cd my_project
-$ git clone url-git-project  #example: https://github/my_git_acc/...repository/..project.git
-# open dir my_project or file tkinter_info.py in Visual Studio Code or your editor
-# run tkinter_info.py
+ # Создайте новую директорию для проекта
+mkdir my_project
+cd my_project
+
+# Склонируйте репозиторий проекта с использованием Git
+git clone https://github.com/your_git_account/your_repository/your_project.git
+
+# Откройте директорию my_project или файл tkinter_info.py в вашем редакторе кода
+
+# Запустите файл tkinter_info.py для выполнения проекта
